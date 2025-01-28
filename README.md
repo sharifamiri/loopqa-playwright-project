@@ -1,0 +1,1 @@
+# loopqa-playwright-project
